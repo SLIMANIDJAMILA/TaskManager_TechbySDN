@@ -1,0 +1,5 @@
+{
+  "name": "ZenTask - Task Management App",
+  "description": "A responsive, offline-first task management web application built with React and Tailwind CSS. It allows users to create, view, edit, and delete tasks, with all data saved locally in the browser. Features include filtering, sorting, dark mode, and JSON data import/export.",
+  "requestFramePermissions": []
+}
